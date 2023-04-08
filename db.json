@@ -1,0 +1,95 @@
+{
+    "users": [
+        {
+            "username": "johnneil",
+            "email": "john.neil@gmail.com",
+            "password": "John@123",
+            "id": 1
+        },
+        {
+            "username": "johnsmith",
+            "email": "john.smith@gmail.com",
+            "password": "John@123",
+            "id": 2
+        }
+    ],
+    "books": [
+        {
+            "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+            "book_name": "Harry Potter and the Philosopher's Stone",
+            "author": "J. K. Rowling",
+            "genre": "Fiction",
+            "edition": "2021",
+            "publisher": "Bloomsbury",
+            "cost": "1299",
+            "borrowed": false,
+            "id": 1
+        },
+        {
+            "image_url": "https://media.wired.com/photos/5dfc0b15a03b9b0008afa1a0/master/w_1600%2Cc_limit/Science_books_9781328879981_hres.jpg",
+            "book_name": "Infinite Powers",
+            "author": "Steven Strongatz",
+            "genre": "Science",
+            "edition": "2022",
+            "publisher": "New York Times",
+            "cost": "2310",
+            "borrowed": false,
+            "id": 2
+        },
+        {
+            "image_url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-05/9/2/asset/7cb8aad1d309/sub-buzz-3335-1588991215-1.jpg",
+            "book_name": "The Book Of Lost Friends",
+            "author": "Lisa Wingate",
+            "genre": "Fiction",
+            "edition": "2020",
+            "publisher": "New York Times",
+            "cost": "1230",
+            "borrowed": false,
+            "id": 3
+        },
+        {
+            "image_url": "https://hips.hearstapps.com/hmg-prod/images/best-historical-books-alexander-hamilton-1600137689.jpg",
+            "book_name": "Titan & Washington",
+            "author": "Ron Chernow",
+            "genre": "History",
+            "edition": "2022",
+            "publisher": "New York Times",
+            "cost": "1520",
+            "borrowed": false,
+            "id": 4
+        },
+        {
+            "image_url": "https://m.media-amazon.com/images/I/51y3TyVKOuL._SL500_.jpg",
+            "book_name": "Artificial Intelligence and Machine Learning",
+            "author": "John Medicine",
+            "genre": "Tech",
+            "edition": "2021",
+            "publisher": "Indian Express",
+            "cost": "960",
+            "borrowed": false,
+            "id": 5
+        },
+        {
+            "image_url": "https://www.ceotodaymagazine.com/CEO-Today/wp-content/uploads/2022/01/41ukdF0fCjL._SX329_BO1204203200_.jpg",
+            "book_name": "The Power Of Regret",
+            "author": "Daniel H. Pink",
+            "genre": "Business",
+            "edition": "2022",
+            "publisher": "New York Times",
+            "cost": "620",
+            "borrowed": false,
+            "id": 6
+        },
+        {
+            "image_url": "https://cdn2.wwnorton.com/wwnproducts/TRADE/1/7/9780393350371/9780393350371_300.jpeg",
+            "book_name": "A Spacetime Odyssey",
+            "author": "Neil DeGrasse Tyson",
+            "genre": "Science",
+            "edition": "2021",
+            "publisher": "New York Times",
+            "cost": "2350",
+            "borrowed": false,
+            "id": 7
+        }
+    ]
+}
